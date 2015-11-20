@@ -1,0 +1,28 @@
+<ion-view view-title="The Daily Quotes">
+<ion-content>
+<ion-list class="list card">
+	<ion-item collection-repeat="quote in quotes" item-height="700">
+		<div class="item  item-image">
+			<img ng-src="{{quote.url}}">
+			<i class="icon ion-social-facebook"></i>
+		</div>
+
+		<div class="item tabs tabs-secondary tabs-icon-left">
+			<a class="tab-item" ng-click="shareAnywhere()">
+				<i class="icon ion-social-facebook positive"></i>
+				Facebook
+			</a>
+			<a class="tab-item" href="#">
+				<i class="icon ion-social-twitter positive"></i>
+				Twitter
+			</a>
+			<a class="tab-item" href="#">
+				<i class="icon ion-social-whatsapp balanced"></i>
+				Whatsapp
+			</a>
+		</div>
+	</ion-item>
+</ion-list>
+
+</ion-content>
+</ion-view>
