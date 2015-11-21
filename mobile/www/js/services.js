@@ -5,6 +5,9 @@ angular.module('starter.services', [])
 	return{
 		getQuotes:function(category){
 			return $http.get(baseUrl+category);
+		},
+		getCategories:function(){
+			return $http.get(baseUrl+'categories');
 		}
 	}
 });
