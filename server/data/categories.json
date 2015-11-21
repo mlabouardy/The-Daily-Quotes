@@ -1,0 +1,95 @@
+{
+	"categories":[
+		{
+			"name":"Family",
+			"url":"family-quotes",
+			"total":253
+		},
+		{
+			"name":"Famous people",
+			"url":"famous-people",
+			"total":15
+		},
+		{
+			"name":"Fitness & Workout",
+			"url":"fitness-quotes",
+			"total":15
+		},
+		{
+			"name":"Friendship",
+			"url":"friendship",
+			"total":15
+		},
+		{
+			"name":"Funny",
+			"url":"funny",
+			"total":15
+		},
+		{
+			"name":"Life Hacks",
+			"url":"life-hacks",
+			"total":15
+		},
+		{
+			"name":"Life",
+			"url":"life",
+			"total":15
+		},
+		{
+			"name":"Love",
+			"url":"love",
+			"total":4
+		},
+		{
+			"name":"Motivational",
+			"url":"motivational",
+			"total":4
+		},
+		{
+			"name":"Music",
+			"url":"music",
+			"total":4
+		},
+		{
+			"name":"Pet",
+			"url":"pet-quotes",
+			"total":4
+		},
+		{
+			"name":"Poems, Proverbs",
+			"url":"poems",
+			"total":4
+		},
+		{
+			"name":"Political",
+			"url":"political",
+			"total":22
+		},
+		{
+			"name":"Sports",
+			"url":"sports",
+			"total":22
+		},
+		{
+			"name":"Religious",
+			"url":"religious-quotes",
+			"total":22
+		},
+		{
+			"name":"Travel",
+			"url":"travel-quotes",
+			"total":22
+		},
+		{
+			"name":"TV, Film & Book",
+			"url":"tv-film",
+			"total":22
+		},
+		{
+			"name":"Video games",
+			"url":"video-games-quotes",
+			"total":22
+		}
+			
+	]
+}
